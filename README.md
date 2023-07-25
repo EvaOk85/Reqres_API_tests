@@ -47,7 +47,7 @@ allure.bat serve
 <!-- Allure TestOps -->
 
 
-### <img width="5%" title="Allure Report" src="images/logo/allure_report.png"> Allure report
+### <img width="5%" title="Allure Report" src="images/logo/allure_report.png"> Allure report.
 ### [Report](https://jenkins.autotests.cloud/job/Okuneva_Reqres_API_tests/2/allure/)
 ##### После прохождения тестов, результаты можно посмотреть в Allure отчете, где так же содержится ссылка на Jenkins
 ![This is an image](images/screenshot/AllureReport.png)
@@ -63,18 +63,17 @@ allure.bat serve
 
 ### <img width="5%" title="Allure TestOps" src="images/logo/allure_testops.png"> Интеграция с Allure TestOps
 
-### [Dashboard](https://allure.autotests.cloud/project/3519/dashboards)
+### [Dashboard](https://allure.autotests.cloud/project/3562/dashboards)
 
 ##### Так же вся отчетность сохраняется в Allure TestOps, где строятся аналогичные графики.
-![This is an image](images/screenshot/alluretestops.png)
+![This is an image](images/screenshot/AllureTestOps.png)
 
 #### Во вкладке со сьютами, мы можем:
 - Управлять всеми тест-кейсами или с каждым отдельно
 - Перезапускать каждый тест отдельно от всех тестов
 - Настроить интеграцию с Jira
-- Добавлять ручные тесты и т.д
 
-![This is an image](images/screenshot/alluretestops1.png)
+![This is an image](images/screenshot/TestCases.png)
 
 
 <!-- Jira -->
@@ -82,13 +81,8 @@ allure.bat serve
 ### <img width="5%" title="Jira" src="images/logo/jira.png"> Интеграция с Jira
 ##### Настроив через Allure TestOps интеграцию с Jira, в тикет можно пробросить результат прохождение тестов и список тест-кейсов из Allure
 
-![This is an image](images/screenshot/jira.png)
+![This is an image](images/screenshot/Jira.png)
 
 
-<!-- Telegram -->
 
-### <img width="5%" title="Telegram" src="images/logo/tg.png"> Интеграция с Telegram
-##### После прохождения тестов, в Telegram bot приходит сообщение с графиком и небольшой информацией о тестах.
-
-![This is an image](images/screenshot/telegram.png)
 
