@@ -1,0 +1,10 @@
+requests~=2.31.0
+pytest==7.3.1
+allure-pytest
+curlify~=2.2.1
+jsonschema~=4.17.3
+selene==2.0.0b17
+selenium~=4.9.1
+python-dotenv~=1.0.0
+voluptuous~=0.13.1
+pytest-voluptuous==1.2.0
