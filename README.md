@@ -58,8 +58,6 @@ allure.bat serve
 ##### Во вкладке Suites находятся собранные тест кейсы, у которых описаны шаги и приложены логи, скриншот и видео о прохождении теста
 ![This is an image](images/screenshot/AllureSuites.png)
 
-##### Видео прохождение теста
-![This is an image](images/screenshot/test.gif)
 
 <!-- Allure TestOps -->
 
