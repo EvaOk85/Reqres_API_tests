@@ -9,25 +9,21 @@
   <code><img width="5%" title="Pycharm" src="images/logo/pycharm.png"></code>
   <code><img width="5%" title="Python" src="images/logo/python.png"></code>
   <code><img width="5%" title="Pytest" src="images/logo/pytest.png"></code>
-  <code><img width="5%" title="Selene" src="images/logo/selene.png"></code>
   <code><img width="5%" title="Jenkins" src="images/logo/jenkins.png"></code>
-  <code><img width="5%" title="Selenoid" src="images/logo/selenoid.png"></code>
   <code><img width="5%" title="Allure Report" src="images/logo/allure_report.png"></code>
   <code><img width="5%" title="Allure TestOps" src="images/logo/allure_testops.png"></code>
   <code><img width="5%" title="Jira" src="images/logo/jira.png"></code>
-  <code><img width="5%" title="Telegram" src="images/logo/tg.png"></code>
 </p>
 
 <!-- Тест кейсы -->
 
 ### Что проверяем
-* Проверка авторизации с невалидными данными
-* Проверка авторизации с валидными данными
-* Проверка поиска отсутствующей книги
-* Поиск книги по автору
-* Добавление книг в корзину 
-* Овормление заказа в корзине
-* Проверка  ввода невалидного промокода в корзине
+✓ Запрос списка пользователей  
+✓ Создание пользователя при вводе валидных данных  
+✓ Получаение пользователя по переданному id  
+✓ Обновление пользователя  
+✓ Удаление пользователя  
+✓ Ошибка авторизации с пустым обязательным полем password  
 
 
 ### <img width="5%" title="Jenkins" src="images/logo/jenkins.png"> Запуск проекта в Jenkins
