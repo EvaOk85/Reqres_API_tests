@@ -28,10 +28,10 @@
 
 ### <img width="5%" title="Jenkins" src="images/logo/jenkins.png"> Запуск проекта в Jenkins
 
-### [Job](https://jenkins.autotests.cloud/job/Okuneva_autotest_book_shop_ui_tests/)
+### [Job](https://jenkins.autotests.cloud/job/Okuneva_Reqres_API_tests/)
 
 ##### При нажатии на "Собрать сейчас" начнется сборка тестов и их прохождение, через виртуальную машину в Selenide.
-![This is an image](images/screenshot/job.png)
+![This is an image](images/screenshot/jenkins.png)
 
 <!-- Allure report -->
 ## Локальный запуск автотестов
