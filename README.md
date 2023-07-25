@@ -53,10 +53,10 @@ allure.bat serve
 ![This is an image](images/screenshot/AllureReport.png)
 
 ##### Во вкладке Graphs можно посмотреть графики о прохождении тестов, по их приоритезации, по времени прохождения и др.
-![This is an image](images/screenshot/grafs.png)
+![This is an image](images/screenshot/graphs.png)
 
 ##### Во вкладке Suites находятся собранные тест кейсы, у которых описаны шаги и приложены логи, скриншот и видео о прохождении теста
-![This is an image](images/screenshot/tests.png)
+![This is an image](images/screenshot/AllureSuites.png)
 
 ##### Видео прохождение теста
 ![This is an image](images/screenshot/test.gif)
