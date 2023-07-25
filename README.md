@@ -30,7 +30,7 @@
 
 ### [Job](https://jenkins.autotests.cloud/job/Okuneva_Reqres_API_tests/)
 
-##### При нажатии на "Собрать сейчас" начнется сборка тестов и их прохождение, через виртуальную машину в Selenide.
+##### При нажатии на "Собрать сейчас" начнется сборка тестов и их прохождение.
 ![This is an image](images/screenshot/jenkins.png)
 
 <!-- Allure report -->
@@ -48,7 +48,7 @@ allure.bat serve
 
 
 ### <img width="5%" title="Allure Report" src="images/logo/allure_report.png"> Allure report
-### [Report](https://jenkins.autotests.cloud/job/Okuneva_autotest_book_shop_ui_tests/12/allure/)
+### [Report](https://jenkins.autotests.cloud/job/Okuneva_Reqres_API_tests/2/allure/)
 ##### После прохождения тестов, результаты можно посмотреть в Allure отчете, где так же содержится ссылка на Jenkins
 ![This is an image](images/screenshot/Allure.png)
 
