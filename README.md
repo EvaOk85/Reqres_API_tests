@@ -55,7 +55,7 @@ allure.bat serve
 ##### Во вкладке Graphs можно посмотреть графики о прохождении тестов, по их приоритезации, по времени прохождения и др.
 ![This is an image](images/screenshot/graphs.png)
 
-##### Во вкладке Suites находятся собранные тест кейсы, у которых описаны шаги и приложены логи, скриншот и видео о прохождении теста
+##### Во вкладке Suites находятся собранные тест кейсы, у которых описаны шаги и приложены Request curl и Response Body
 ![This is an image](images/screenshot/AllureSuites.png)
 
 
